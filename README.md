@@ -10,6 +10,8 @@ Data analysis plays a crucial role in economic decision-making and understanding
 Real estate data is particularly important as it directly impacts both businesses and households.  
 The goal of this project is to demonstrate the **integrated use of Power BI and Python** for data analysis and predictive modelling, focusing on the Hungarian real estate market.
 
+![Power BI and Python dashboard](docs/power_bi_python_4oldal.png)
+
 ---
 
 ## 🎯 Objectives
